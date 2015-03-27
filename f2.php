@@ -1,3 +1,3 @@
 <?php
-echo('file2 xxx');
+echo('file2 xxx88');
 ?>
